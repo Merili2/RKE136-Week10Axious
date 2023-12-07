@@ -6,7 +6,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.chat-container{
+    position: absolute;
+    bottom: 0; 
+    right: 0;
+}
 
 html {
     font-family: 'Roboto', sans-serif;
@@ -256,10 +260,4 @@ span{
 img{
     width: 250px;
     border-radius: 5px;
-}
-.chat-container{
-    position: absolute;
-    bottom: 0; 
-    right: 0;
-    
 }
