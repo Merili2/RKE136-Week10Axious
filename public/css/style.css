@@ -257,3 +257,9 @@ img{
     width: 250px;
     border-radius: 5px;
 }
+.chat-container{
+    position: absolute;
+    bottom: 0; 
+    right: 0;
+    
+}
